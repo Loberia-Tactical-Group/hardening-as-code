@@ -25,6 +25,24 @@ To use the **Loberia Tactical Suite**, follow these steps:
    git clone [https://github.com/Loberia-Tactical-Group/hardening-as-code.git](https://github.com/Loberia-Tactical-Group/hardening-as-code.git)
    cd hardening-as-code
 
+Grant execution permissions:
+
+Run the tools (Recommended Order):
+
+Step 1: Audit (Diagnose vulnerabilities):
+sudo ./Linux/audit.sh
+
+Step 2: Harden (Apply security fixes):
+sudo ./Linux/ubuntu-22-04-harden.sh
+
+Step 3: Monitor & Trap (Start the sentinel and honeypot):
+sudo ./Linux/loberia-eye.sh &
+sudo ./Linux/loberia-trap.sh &
+
+Step 4: Report (Generate an executive summary):
+sudo ./Linux/loberia-report.sh
+   
+
 ### ⚠️ Disclaimer
 These scripts are intended for **Ethical Hacking** and professional security environments. Always test in a staging environment before applying to production.
 
