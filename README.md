@@ -26,10 +26,12 @@ To use the **Loberia Tactical Suite**, follow these steps:
    cd hardening-as-code
 
 2. **Grant execution permissions:**
+
 chmod +x Linux/*.sh
 Run the tools (Recommended Order):
 
 3. **Run the tools (Recommended Order):**
+
 Step 1: Audit (Diagnose vulnerabilities):
 sudo ./Linux/audit.sh
 
@@ -37,10 +39,13 @@ Step 2: Harden (Apply security fixes):
 sudo ./Linux/ubuntu-22-04-harden.sh
 
 Step 3: Monitor & Trap (Start the sentinel and honeypot):
+
 sudo ./Linux/loberia-eye.sh &
+
 sudo ./Linux/loberia-trap.sh &
 
 Step 4: Report (Generate an executive summary):
+
 sudo ./Linux/loberia-report.sh
    
    **Executive Reporting Engine: A dedicated loberia-report.sh tool to generate high-level security summaries.**
