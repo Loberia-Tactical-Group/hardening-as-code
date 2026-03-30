@@ -16,6 +16,15 @@ This repository contains automated scripts designed by **Loberia Tactical Group*
 * **Security Auditing:** Quick diagnostic tool to check system vulnerabilities.
 * **Active Deception:** Tactical Honeypot script to detect and log early-stage network reconnaissance.
 
+## 🛠️ Usage & Deployment
+
+To use the **Loberia Tactical Suite**, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Loberia-Tactical-Group/hardening-as-code.git](https://github.com/Loberia-Tactical-Group/hardening-as-code.git)
+   cd hardening-as-code
+
 ### ⚠️ Disclaimer
 These scripts are intended for **Ethical Hacking** and professional security environments. Always test in a staging environment before applying to production.
 
