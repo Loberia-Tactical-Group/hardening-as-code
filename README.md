@@ -25,10 +25,11 @@ To use the **Loberia Tactical Suite**, follow these steps:
    git clone [https://github.com/Loberia-Tactical-Group/hardening-as-code.git](https://github.com/Loberia-Tactical-Group/hardening-as-code.git)
    cd hardening-as-code
 
-Grant execution permissions:
-
+2. **Grant execution permissions:**
+chmod +x Linux/*.sh
 Run the tools (Recommended Order):
 
+3. **Run the tools (Recommended Order):**
 Step 1: Audit (Diagnose vulnerabilities):
 sudo ./Linux/audit.sh
 
@@ -52,5 +53,7 @@ These scripts are intended for **Ethical Hacking** and professional security env
 ### ⚠️ Legal Disclaimer
 *This project is for educational and ethical security purposes only. Usage of these scripts for attacking targets without prior mutual consent is illegal. **Loberia Tactical Group** is not responsible for any misuse of this tool.*
 
+---
+* *Need advanced security consulting? Contact us through our GitHub Organization profile.*
 ---
 *Developed by Loberia Tactical Group | 2026*
