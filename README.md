@@ -28,7 +28,6 @@ To use the **Loberia Tactical Suite**, follow these steps:
 2. **Grant execution permissions:**
 
 chmod +x Linux/*.sh
-Run the tools (Recommended Order):
 
 3. **Run the tools (Recommended Order):**
 
