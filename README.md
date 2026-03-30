@@ -18,4 +18,9 @@ This repository contains automated scripts designed by **Loberia Tactical Group*
 These scripts are intended for **Ethical Hacking** and professional security environments. Always test in a staging environment before applying to production.
 
 ---
+
+### ⚠️ Legal Disclaimer
+*This project is for educational and ethical security purposes only. Usage of these scripts for attacking targets without prior mutual consent is illegal. **Loberia Tactical Group** is not responsible for any misuse of this tool.*
+
+---
 *Developed by Loberia Tactical Group | 2026*
