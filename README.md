@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/logo_300.png" width="300" alt="Loberia Tactical Group Logo">
 </p>
+
 # 🛡️ Loberia Hardening-as-Code (HAC)
 
 > **"Secure by design, tactical by execution."**
