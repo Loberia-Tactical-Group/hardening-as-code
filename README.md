@@ -14,6 +14,7 @@ This repository contains automated scripts designed by **Loberia Tactical Group*
 * **Network Hardening:** Protection against IP spoofing and man-in-the-middle attacks.
 * **Intrusion Prevention:** Built-in integration with Fail2Ban.
 * **Security Auditing:** Quick diagnostic tool to check system vulnerabilities.
+* **Active Deception:** Tactical Honeypot script to detect and log early-stage network reconnaissance.
 
 ### ⚠️ Disclaimer
 These scripts are intended for **Ethical Hacking** and professional security environments. Always test in a staging environment before applying to production.
