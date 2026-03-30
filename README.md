@@ -42,6 +42,7 @@ sudo ./Linux/loberia-trap.sh &
 Step 4: Report (Generate an executive summary):
 sudo ./Linux/loberia-report.sh
    
+   **Executive Reporting Engine: A dedicated loberia-report.sh tool to generate high-level security summaries.**
 
 ### ⚠️ Disclaimer
 These scripts are intended for **Ethical Hacking** and professional security environments. Always test in a staging environment before applying to production.
