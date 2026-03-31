@@ -22,7 +22,7 @@ To use the **Loberia Tactical Suite**, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Loberia-Tactical-Group/hardening-as-code.git](https://github.com/Loberia-Tactical-Group/hardening-as-code.git)
+   git clone https://github.com/Loberia-Tactical-Group/hardening-as-code.git
    cd hardening-as-code
 
 2. **Grant execution permissions:**
